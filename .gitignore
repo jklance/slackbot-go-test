@@ -1,0 +1,11 @@
+# Sublime Text
+
+*.sublime-workspace
+*.sublime-project
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# VSCode
+
+.vscode
